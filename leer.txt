@@ -1,1 +1,1 @@
-es la version 1.2.1 hecha por Dalexi con mejoras
+es la version 1.2.1 hecha por Dalexi con mejoras, puesto dias de no trabajo y la opciones de svdom, recogida dinamicas
